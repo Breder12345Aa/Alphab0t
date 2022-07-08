@@ -21,16 +21,16 @@ global.auto_welcome_msg = true
 global.auto_leave_msg = true
 global.prefix = "."
 global.language = "ind"
-global.ownerNumberr = "16477944776"
-global.ownerbot = ['16477944776@s.whatsapp.net','918156874290@s.whatsapp.net'] // .owner
-global.ownername = "ᴹᴿ᭄Ofcོ ×፝֟͜×"
-global.botname = "BAYU-bot"
+global.ownerNumberr = "6283183321692"
+global.ownerbot = ['6283183321692@s.whatsapp.net','62895386445819@s.whatsapp.net'] // .owner
+global.ownername = "ᴹᴿ᭄BOT WA ×፝֟͜×"
+global.botname = "B O T - W A"
 global.thumb = "thumbnail_1.jpg"
 global.thumbnail ="thumbnail_2_1.jpg"
 global.fakethumb ="thumbnail_1.jpg"
 global.donasi ="donasi.jpg"
 global.captionpay ="Scan untuk melakukan pembayaran"
-global.fake = "「  ALPHABOT  」\nCreated By ᴹᴿ᭄Ofcོ ×፝֟͜×"
+global.fake = "「  BOTWA  」\nCreated By ᴹᴿ᭄BOT WAOfcོ ×፝֟͜×"
 global.alphaVersion = [2, 2143, 3] //WhatsApp web version
 
 /* Available type menu
